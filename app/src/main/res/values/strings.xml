@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Newsletter App</string>
+    <string name="title_activity_main">Newsletter App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="news_image">The news\' image</string>
+    <string name="news_title">The news\' title</string>
+    <string name="news_desc">Description</string>
+    <string name="news_published_at">The news\' date</string>
+    <string name="news_source">The news\' source</string>
+    <string name="news_author">The news\' author</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tempor nisl nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tempor nisl nibh.</string>
+</resources>
